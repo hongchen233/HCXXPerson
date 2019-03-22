@@ -1,0 +1,27 @@
+PODS:
+  - Expecta (1.0.6)
+  - HCXXPersonLib (0.1.0)
+  - Specta (1.0.7)
+
+DEPENDENCIES:
+  - Expecta
+  - HCXXPersonLib (from `../`)
+  - Specta
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  HCXXPersonLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  HCXXPersonLib: 0816e4dde4d16d9d12b5269497158f56767659cd
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+
+PODFILE CHECKSUM: 9087eccb577b3b2a6e4dac5cdab11eed5f7110e4
+
+COCOAPODS: 1.7.0.beta.2

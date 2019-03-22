@@ -1,0 +1,6 @@
+framework module HCXXPersonLib {
+  umbrella header "HCXXPersonLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
