@@ -1,18 +1,18 @@
 {
   "name": "HCXXPersonLib",
   "version": "0.1.0",
-  "summary": "A short description of HCXXPersonLib.",
+  "summary": "哈哈哈",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/15215555567@163.com/HCXXPersonLib",
+  "homepage": "https://github.com/hongchen233",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "15215555567@163.com": "15215555567@163.com"
+    "hongchen233": "hongchen233"
   },
   "source": {
-    "git": "https://github.com/15215555567@163.com/HCXXPersonLib.git",
+    "git": "https://github.com/hongchen233/HCXXPerson.git",
     "tag": "0.1.0"
   },
   "platforms": {

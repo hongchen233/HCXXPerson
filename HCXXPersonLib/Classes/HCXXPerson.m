@@ -6,9 +6,9 @@
 //  Copyright © 2019年 longhoo. All rights reserved.
 //
 
-#import "HCDDPerson.h"
+#import "HCXXPerson.h"
 
-@implementation HCDDPerson
+@implementation HCXXPerson
 -(void)eat{
     NSLog(@"我EAT");
 }

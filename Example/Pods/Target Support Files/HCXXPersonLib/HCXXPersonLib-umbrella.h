@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "HCDDPerson.h"
 
 FOUNDATION_EXPORT double HCXXPersonLibVersionNumber;
 FOUNDATION_EXPORT const unsigned char HCXXPersonLibVersionString[];

@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface HCDDPerson : NSObject
+@interface HCXXPerson : NSObject
 -(void)eat;
 @end
 

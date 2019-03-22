@@ -7,7 +7,7 @@
 //
 
 #import "HCXXViewController.h"
-
+#import "HCXXPerson.h"
 @interface HCXXViewController ()
 
 @end
@@ -17,6 +17,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    HCXXPerson *p = [[HCXXPerson alloc]init];
+    [p eat];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
